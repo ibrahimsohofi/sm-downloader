@@ -173,6 +173,10 @@ const translations = {
     unknownDuration: "Unknown Duration",
     noVideoOptions: "No video options available",
     noAudioOptions: "No audio options available",
+    batchValidLinks: "valid links",
+    batchInvalidLinks: "invalid links",
+    batchErrorMessage: "Failed to fetch video information",
+    batchOverallProgress: "overall progress",
 
     // CPA Locker / Unlock
     unlock: "Unlock Download",
@@ -380,6 +384,10 @@ const translations = {
     unknownDuration: "Duración Desconocida",
     noVideoOptions: "No hay opciones de video disponibles",
     noAudioOptions: "No hay opciones de audio disponibles",
+    batchValidLinks: "enlaces válidos",
+    batchInvalidLinks: "enlaces inválidos",
+    batchErrorMessage: "No se pudo obtener la información del video",
+    batchOverallProgress: "progreso general",
 
     // CPA Locker / Unlock
     unlock: "Desbloquear Descarga",
@@ -587,6 +595,10 @@ const translations = {
     unknownDuration: "Durée Inconnue",
     noVideoOptions: "Aucune option vidéo disponible",
     noAudioOptions: "Aucune option audio disponible",
+    batchValidLinks: "liens valides",
+    batchInvalidLinks: "liens invalides",
+    batchErrorMessage: "Impossible de récupérer les informations de la vidéo",
+    batchOverallProgress: "progrès général",
 
     // CPA Locker / Unlock
     unlock: "Débloquer Téléchargement",
