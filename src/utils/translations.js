@@ -127,7 +127,7 @@ const translations = {
     donateDesc: "Help us keep this tool free and ad-free",
 
     // Batch Downloader
-    batchTitle: "Batch Video Downloader",
+    batchTitle: "Easy Batch",
     batchHeroTitle: "Download <orange>Multiple Videos</orange> At Once",
     batchHeroSubtitle: "Save time by processing multiple video downloads in a single batch operation",
     batchInputLabel: "Enter Video URLs",
